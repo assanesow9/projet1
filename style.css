@@ -1,0 +1,258 @@
+*{
+    margin: auto;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.diop{
+    display: flex;
+    list-style: none;
+    
+}
+.de{
+    margin: 10px;
+}
+img{
+    width: 100px;
+    left: 50px;
+}
+.boutton{
+    background-color: #42210B #FF6600;
+}
+.button{
+    background-color: linear-gradient(to right #FF6600 #42210B);
+    padding: top 10px;
+    padding-bottom: 10px;
+    border: none;  
+    border-radius: 10px;
+    
+   
+}
+.div1{
+    background-color: #FF6600;
+    color: white;
+    text-align: center;
+    width: 500px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 20px;
+}
+.main{
+    align-items: center;
+    background-color: rgba(141, 136, 132, 0.607);
+}
+.machine{
+font-size: 20px;
+}
+h1{
+    font-size: 20px;
+}
+.b{
+    border-style: solid;
+    border-color: orange;
+    font-size: 25px;
+}
+.block{
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    width: 400px;
+    height: 250px;
+padding-right: 150px;
+padding-bottom: 10px;
+background-image: url(4fa769628d7ca90d12c694c33f7578899978779e.png);
+   
+}
+.ba{
+    color: orange;
+}
+.sow{
+    background-color: #42210B;
+    color: white;
+}
+.jours{
+    background-color: #42210B;
+    padding-bottom: 2px;
+}
+.src{
+    display: flex;
+    justify-content: space-around;
+}
+.image{
+    width: 300px;
+    height: 250px;
+padding-right: 150px;
+padding-bottom: 10px;
+background-image: url(4fa769628d7ca90d12c694c33f7578899978779e.png);
+}
+.a{
+ border-style: solid;
+ border-color: #FF6600;  
+ font-size: 25px; 
+}
+.mesure{
+ flex-direction: column;
+ background-color: #42210B;
+ color: white;
+ width: 400px;
+    padding: 7px;
+    margin: auto;
+    border-radius: 10px;
+}
+.click{
+    text-align: center;
+    background-color: #FF6600;
+    color: white;
+    text-align: center;
+    width: 700px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 10px;
+}
+.boy{
+    width: 100px;
+}
+.class{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+.alg{
+    height: 100%;
+    width: 85px;
+}
+.moi{
+    text-align: center;
+    padding-left: 0%;
+    list-style-position: inside;
+    margin-top: 2Opx;
+}
+.un{
+    margin-bottom: 10px;
+    text-align: center;
+}
+.votre{
+    background-color: white;
+    color: #FF6600;
+    border-style: 0px;
+}
+.clas{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.c{
+    background-color: antiquewhite;
+    border-radius: 20px;
+    border-radius: 1px solid orange;
+    padding: 30px;
+    
+}
+.e{
+    background-color: antiquewhite;
+    border-radius: 20px;
+    padding: 30px;
+}
+.d{
+    color: #FF6600;
+    font-size: 20px;  
+}
+.des{
+  width: 500px;
+  font-size: 20px;
+  
+}
+.h{
+    display: flex;
+    text-align: center;
+    background-color: #FF6600;
+   justify-content: space-between;
+   margin: 50px;
+   padding: 50px;
+  text-align: center;
+  
+ }
+ .g{
+    background-color: #FF6600;
+    padding: 1px;
+    padding-left: 10px;
+    color: white;
+    margin: 15px;
+    height: 25px;
+    width: 50px;
+    align-items: center;
+    font-size: 20px;
+    text-align: center;
+    padding-right: 10px;
+    border-radius: 15px;
+ }
+ .ca{
+   
+ }
+ .f{
+    background-color: white;
+    width: 200px;
+    height: 70%;
+    border-radius: 5px;
+ }
+ .s{
+    color: #FF6600;
+ }
+ .tout{
+    display: flex;
+    justify-content: space-between;
+    background: rgba(215, 207, 191, 0.592);
+    padding: 50px;
+    border-radius: 15px;
+ }
+ h4{
+    color: #FF6600;
+    font-size: 15px;
+ }
+ .offres{
+    flex-direction: column;
+ }
+ .équipe{
+    display: flex;
+    justify-content: space-between;
+ }
+ .png{
+    width: 100px;
+    padding-right: 200px;
+ }
+ .lorem{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    
+ }
+ .dolor{
+    background-color: rgba(250, 235, 215, 0.76);
+    border-radius: 10px ;
+ }
+ .sit{
+    background-color: #FF6600;
+    border-radius: 3px;
+    padding-top: 5px;
+ }
+ footer{
+    background-color: #FF6600;
+ }
+ section{
+    display: flex;
+    justify-content: space-between;
+ }
+ .icone{
+    
+ }
+ input{
+    display: flex;
+ }
+ .h6{
+    align-items: center;
+ }
+
+ 
