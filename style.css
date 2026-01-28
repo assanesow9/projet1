@@ -250,9 +250,9 @@ background-image: url(4fa769628d7ca90d12c694c33f7578899978779e.png);
  }
  input{
     display: flex;
+    margin: 7px;
  }
- .h6{
-    align-items: center;
+ h6{
+    text-align: center;
  }
-
  
