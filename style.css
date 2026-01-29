@@ -11,47 +11,64 @@ nav{
     
 }
 .de{
-    margin: 10px;
+    margin: 10px
+}
+a{
+    text-decoration: none;
 }
 img{
     width: 100px;
     left: 50px;
 }
-.boutton{
-    background-color: #42210B #FF6600;
-}
 .button{
-    background-color: linear-gradient(to right #FF6600 #42210B);
-    padding: top 10px;
-    padding-bottom: 10px;
-    border: none;  
-    border-radius: 10px;
-    
+    width: 100;
+height: 32;
+angle: 0 deg;
+opacity: 1;
+top: 47px;
+left: 1000px;
+border-radius: 5px;
+padding-top: 10px;
+padding-right: 37px;
+padding-bottom: 15px;
+padding-left: 37px;
+gap: 5px;
+background: linear-gradient(90deg, #FF6600 0%, #42210B 100%);
+
+
    
 }
 .div1{
     background-color: #FF6600;
     color: white;
     text-align: center;
-    width: 500px;
+    width: 600px;
+    height: 200px;
     padding: 15px;
     margin: auto;
     border-radius: 20px;
 }
 .main{
     align-items: center;
-    background-color: rgba(141, 136, 132, 0.607);
+  background: #FFFFFF1A;
+    border-radius: 7px;
+    width: 500px;
+    padding: 7px;
+    flex-direction: column;
 }
 .machine{
-font-size: 20px;
+font-size: 40px;
 }
 h1{
     font-size: 20px;
 }
 .b{
     border-style: solid;
-    border-color: orange;
     font-size: 25px;
+    border: 0.5px solid #FF6600;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 4px;
 }
 .block{
     display: flex;
@@ -87,10 +104,17 @@ padding-right: 150px;
 padding-bottom: 10px;
 background-image: url(4fa769628d7ca90d12c694c33f7578899978779e.png);
 }
+.face{
+    padding: 10px;
+    margin: 20px;
+}
 .a{
  border-style: solid;
- border-color: #FF6600;  
+  border: 0.5px solid #FF6600;
+    margin: 5px;
+    padding: 5px; 
  font-size: 25px; 
+ border-radius: 4px;
 }
 .mesure{
  flex-direction: column;
@@ -107,6 +131,7 @@ background-image: url(4fa769628d7ca90d12c694c33f7578899978779e.png);
     color: white;
     text-align: center;
     width: 700px;
+    height: 200px;
     padding: 15px;
     margin: auto;
     border-radius: 10px;
@@ -124,19 +149,40 @@ background-image: url(4fa769628d7ca90d12c694c33f7578899978779e.png);
     width: 85px;
 }
 .moi{
-    text-align: center;
-    padding-left: 0%;
-    list-style-position: inside;
-    margin-top: 2Opx;
+   width: 1002;
+height: 327;
+angle: 0 deg;
+opacity: 1;
+top: 220px;
+left: 249px;
+border-radius: 12px;
+padding-top: 24px;
+padding-right: 51px;
+padding-bottom: 24px;
+padding-left: 51px;
+gap: 10px;
+
 }
 .un{
-    margin-bottom: 10px;
+    margin: 5px;
+    padding-right: 10px;
     text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    background: #FF6600;
+
+   
+
 }
 .votre{
     background-color: white;
-    color: #FF6600;
+    color: black;
     border-style: 0px;
+    background: #FF660008;
+
+}
+.audit{
+    background-color: white;
 }
 .clas{
     display: flex;
@@ -147,7 +193,7 @@ background-image: url(4fa769628d7ca90d12c694c33f7578899978779e.png);
 .c{
     background-color: antiquewhite;
     border-radius: 20px;
-    border-radius: 1px solid orange;
+    border-radius: 2px solid black;
     padding: 30px;
     
 }
@@ -159,6 +205,14 @@ background-image: url(4fa769628d7ca90d12c694c33f7578899978779e.png);
 .d{
     color: #FF6600;
     font-size: 20px;  
+}
+.fram10{
+    width: 340px;
+    height: 0;
+    border: 0.5px solid rgba(44, 44, 44, 1);
+}
+.malick{
+    
 }
 .des{
   width: 500px;
@@ -173,6 +227,12 @@ background-image: url(4fa769628d7ca90d12c694c33f7578899978779e.png);
    margin: 50px;
    padding: 50px;
   text-align: center;
+  width: 1728;
+height: 450;
+angle: 0 deg;
+opacity: 1;
+top: 3819px;
+
   
  }
  .g{
@@ -195,11 +255,15 @@ background-image: url(4fa769628d7ca90d12c694c33f7578899978779e.png);
  .f{
     background-color: white;
     width: 200px;
-    height: 70%;
+    height: 100px;
     border-radius: 5px;
+    padding: 30px;
+    margin-top: 10px;
+    
  }
  .s{
     color: #FF6600;
+    width: 1270px;
  }
  .tout{
     display: flex;
@@ -232,6 +296,13 @@ background-image: url(4fa769628d7ca90d12c694c33f7578899978779e.png);
  .dolor{
     background-color: rgba(250, 235, 215, 0.76);
     border-radius: 10px ;
+    padding: 15px;
+    margin: 20px;
+    margin-bottom: 10px;
+ }
+ .sec{
+    color: #FF6600;
+    font-size: 10px;
  }
  .sit{
     background-color: #FF6600;
